@@ -5,7 +5,7 @@ Este projeto apresenta duas implementações de uma Calculadora de Índice de Ma
 
 ## Descrição
 
-O objetivo principal é calcular o IMC de um usuário com base em seu peso e altura (em centímetros).
+O objetivo principal é calcular o IMC de um usuário com base em seu peso e altura (em centímetros)
 
 O projeto inclui:
 1.  **Uma aplicação em C**, construída com a biblioteca `raylib` para uma interface visual simples e direta, ou de forma alternativa, uma aplicação em CLI.
